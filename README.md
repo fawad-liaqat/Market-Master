@@ -35,9 +35,9 @@
 
 ---
 
-## 🖥️ Demo
+🚀 **See how Market Master was built & launched!**  
+👉 [View the full LinkedIn post here](https://www.linkedin.com/posts/fawad-liaqat_fintech-datascience-streamlit-activity-7329555856763551744-JXNH)
 
-![Demo GIF](https://github.com/yourusername/market-master-demo.gif) <!-- Replace with your own demo GIF if available -->
 
 ---
 
@@ -49,7 +49,7 @@
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/market-master.git
+   git clone https://github.com/fawad-liaqat/market-master.git
    cd market-master
    ```
 2. **Install dependencies:**
